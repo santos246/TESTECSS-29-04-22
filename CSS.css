@@ -18,3 +18,19 @@ a:hover {
  font-weight: bold;
  border-color: #B1B1B1;
 }
+
+
+
+
+
+
+
+
+a:link, a:visited, a:active {
+	text-decoration:none;
+	}
+a:hover {
+	text-decoration: underline;
+	color:#000;
+	background:#ff0;
+	}
